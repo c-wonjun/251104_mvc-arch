@@ -1,4 +1,3 @@
-
 # Maven 빌드 스테이지
 FROM maven:3-eclipse-temurin-17 AS builder
 
